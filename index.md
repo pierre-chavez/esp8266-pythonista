@@ -15,7 +15,7 @@
   {% endfor %}
 </ul>
 
-[Link to a post]({{ site.baseurl }}{% link _posts/2018-03-04-hola-mundo.md %})
+{% link _posts/2018-03-04-hola-mundo.md %}
 
 </body>
 </html>
