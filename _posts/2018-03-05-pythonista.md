@@ -12,6 +12,10 @@ title: Control de Leds con Pythonista y ESP8266
 - Leds de firentes colores x4
 - resistencias 220 ohm x4
 
+## Esquema
+
+![Esquema](https://i.imgur.com/f12t6my.jpg)
+
 ## Codigo
 
 ### Pythonista
