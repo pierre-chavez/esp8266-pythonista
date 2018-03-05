@@ -22,7 +22,7 @@ title: Control de Leds con Pythonista y ESP8266
 
 Una vez implementado el esquema procedemos a subir el código a la ESP8266 mediante el IDE de Arduino, cuando ya este subido el código en la placa procedemos a conectarnos a la red Wifi que crea la placa ESP8266 y ponemos la contraseña de acceso que establecimos en el código del ESP8266, estando conectados a la red del ESP8266 abrimos la aplicación que hemos creado y la ejecutamos, si todo se encuentra correctamente configurado procedemos a hacer uso de la interfaz gráfica de la app para enceder y apagar los leds de manera indivudual o apargarlos todos como se muestra a continuación.
 
-![app Pythonista](https://imgur.com/gallery/T6Mqz)
+![app Pythonista](https://i.imgur.com/3Dh2ry0.jpg)
 
 ## Código
 
