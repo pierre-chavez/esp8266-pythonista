@@ -1,18 +1,12 @@
+---
+title: IOT-ESP8266
+---
+{% include ads.html %}
 
-<html>
-<head>
-<title>esp8266-pythonista</title>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3176233678883808",
-          enable_page_level_ads: true
-     });
-</script>
+# {{ page.title }}
 
-</head>
-<body>
-# ESP8266 y Pythonista
+![](https://i.imgur.com/4EDDMRd.jpg)
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -20,7 +14,5 @@
     </li>
   {% endfor %}
 </ul>
-</body>
 
-</html>
 
