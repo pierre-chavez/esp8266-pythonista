@@ -24,6 +24,8 @@ Una vez implementado el esquema procedemos a subir el código a la ESP8266 media
 
 ![app Pythonista](https://i.imgur.com/3Dh2ry0.jpg)
 
+Puedes descargar el código del ESP8266 y  la app en Pythonista desde: [aqui](http://corneey.com/wmGdTz)
+
 ## Código
 
 ### Pythonista
