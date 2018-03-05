@@ -9,7 +9,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="esp8266-pythonista{{post.url }}">{{post.title}}</a>
+      <a href="/esp8266-pythonista{{post.url }}">{{post.title}}</a>
       {{post.url }}
       {{ post.excerpt }}
     </li>
