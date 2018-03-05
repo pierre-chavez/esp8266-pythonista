@@ -9,13 +9,13 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="esp8266-pythonista/{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
 
-{% link _posts/2018-03-04-hola-mundo.md %}
+
 
 </body>
 </html>
