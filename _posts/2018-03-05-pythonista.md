@@ -6,6 +6,8 @@ title: Control de Leds con Pythonista y ESP8266
 # {{ page.title }}
 !hola a todos en este tutorial vamos a ver como encender y apagar leds usando pytonista y ESP8266 
 
+![](https://i.imgur.com/JOslN4a.jpg)
+
 ## Requisitos
 - Pythonista 3
 - ESP8266 (en mi caso: Wemos D1 Mini)
