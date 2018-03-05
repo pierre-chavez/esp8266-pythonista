@@ -4,4 +4,9 @@ title:  "HOLA MUNDO!"
 
 ---
 
-#HOLA MUNDO
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
