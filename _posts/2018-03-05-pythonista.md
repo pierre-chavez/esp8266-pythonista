@@ -11,7 +11,7 @@ title: Control de Leds con Pythonista y ESP8266
 ## Requisitos
 - Pythonista 3
 - ESP8266 (en mi caso: Wemos D1 Mini)
-- Leds de firentes colores x4
+- Leds de diferentes colores x4
 - resistencias 220 ohm x4
 
 ## Esquema
