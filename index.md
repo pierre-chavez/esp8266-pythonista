@@ -16,7 +16,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/esp8266-pythonista{{post.url }}">{{post.title}}</a>
+      <a href="/iot-esp8266{{post.url }}">{{post.title}}</a>
     </li>
   {% endfor %}
 </ul>
