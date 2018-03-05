@@ -2,6 +2,7 @@
 title: Control de Leds con Pythonista y ESP8266
 ---
 
+{% include ads.html %}
 # {{ page.title }}
 !hola a todos en este tutorial vamos a ver como encender y apagar leds usando pytonista y ESP8266 
 
