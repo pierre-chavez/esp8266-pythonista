@@ -5,7 +5,7 @@
 <body>
 
 <h1>esp8266 y Pythonista</h1>
-<p>proximamente veremos como comunicar la placa esp8266 con pythnista.</p>
+<p>proximamente veremos como comunicar la placa esp8266 con pythonista.</p>
 
 </body>
 </html>
