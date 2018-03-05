@@ -14,5 +14,6 @@
   {% endfor %}
 </ul>
 
+[Link]({{ site.baseurl }}{% post_url 2018-03-04-hola-mundo %})
 </body>
 </html>
