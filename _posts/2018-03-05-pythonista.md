@@ -32,7 +32,7 @@ Puedes descargar el código del ESP8266 y  la app en Pythonista desde: [aqui](ht
 
 código implementado en Pythonista 3 
 
-```
+```python
 import ui
 import socket
 import time
@@ -100,7 +100,7 @@ while True:
 
 código implementado y subido a la placa mediante Arduino IDE
 
-```
+```c++
 #include <ESP8266WiFi.h>
 #include <WiFiUDP.h>
 
