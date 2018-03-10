@@ -100,7 +100,7 @@ while True:
 
 código implementado y subido a la placa mediante Arduino IDE
 
-```c++
+```C++
 #include <ESP8266WiFi.h>
 #include <WiFiUDP.h>
 
