@@ -1,1 +1,7 @@
-:) gracias por su colaboración.
+---
+title: Gracias
+---
+
+{% include ads.html %}
+# {{ page.title }}
+Gracias por tu colaboración.
